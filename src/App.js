@@ -6,7 +6,7 @@ function App() {
     <div>
     
      <MainComponent />
-    
+
     </div>
           
   );
