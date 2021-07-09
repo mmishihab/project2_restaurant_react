@@ -1,0 +1,61 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+}
+
+
+.banner-container{
+    
+    background-image: url('img/prof1.jpg');
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.banner-column{
+    background-color: #6F5858DE
+}
+
+.imgHandler{
+    width: 500px;
+    
+}
+
+.circle{
+    border: 1px solid;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    background-color: #B62525D1;
+}
+
+.secradius{
+   width: 80%;
+    border-radius: 10px;
+    
+}
+
+.cardImgWidth{
+    width: 150px;
+}
+
+.boxsize{
+    box-sizing: border-box
+}
+
+.circleIcon{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    color: white;
+    font-size: 40px
+}
+
+.circleIcon:hover{
+    background-color: #2255AB!important;
+}
